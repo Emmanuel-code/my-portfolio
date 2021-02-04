@@ -2,9 +2,9 @@
   "main": {
     "name": "Bakeri Emmanuel Jimah",
     "occupation": "CEO of BEJ",
-    "description": "I eat, sleep and breathe and develop as fullstack",
+    "description": "I am a full stack developer.i love what I do and I am a dedicated person",
     "image": "pro-pic.jpg",
-    "bio": "Hi there! I am Emmanuel!. I've been coding for over 5 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
+    "bio": "Hi there! I am Emmanuel!. I've been coding for over 5 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies.When ever i work for a client or company,I give in my all and I freely share my idea on how and what they can excel and STAND-OUT among their competitors. With this ambition to see my employers on top of their game has made me the best in my field",
     "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
     "email": "b.emma.j37@gmail.com",
     "phone": "+2330541555607",
@@ -24,12 +24,12 @@
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/Emmanuel Bakeri",
+        "url": "https://facebook.com/Bejimav/",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/EMMANUEL BAKERI JIMAH",
+        "url": "https://www.linkedin.com/in/emmanuel-bakeri-jimah-828647192",
         "className": "fa fa-linkedin"
       },
       {
@@ -76,8 +76,8 @@
         "level": "95%"
       },
       {
-        "name": "JavaScript",
-        "level": "80%"
+        "name": "Django",
+        "level": "100%"
       },
       {
         "name": "Web Development",
@@ -88,9 +88,9 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
+        "title": "...",
         "category": "",
-        "image": "snapchat.jpg",
+        "image": "",
         "url": "#"
       }
     ]
@@ -98,12 +98,12 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Emmanuel is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "text": "Emmanuel is absolutely excellent, soo committed",
         "user": "Jorge Fouto"
       },
       {
-        "text": "working with Emmauel has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Paul Mason"
+        "text": "working with Emmauel has been AWESOME",
+        "user": "Paul"
       }
     ]
   }
